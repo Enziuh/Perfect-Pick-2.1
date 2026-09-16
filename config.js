@@ -12,7 +12,7 @@ const PICKEM_CONFIG = {
   seasons: {
     2026: {
       name: "2026 Football Pick Ems",
-      api: "PASTE_NEW_PICK_EMS_2_0_EXEC_URL_HERE"
+      api: "https://script.google.com/macros/s/AKfycbx1I1VFlOnGDnygcPW7kBjB9nuxXopY3qZosdiM7uIRUzouardXH2QpipbCoMg78YXM/exec"
     }
   },
 
